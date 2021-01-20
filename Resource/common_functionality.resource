@@ -6,7 +6,7 @@ Library    OperatingSystem
 Library    SeleniumLibrary    screenshot_root_directory=Screenshot    
 
 *** Variables ***
-${BROWSER_NAME}    chrome
+${BROWSER_NAME}    ff
 ${URL}    https://demo.openemr.io/b/openemr/interface/login/login.php?site=default
 
 
