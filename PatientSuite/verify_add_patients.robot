@@ -47,6 +47,7 @@ Verify_Add_Patient_Test
     Switch To Pat Frame    
     Verify Add Patient Detail    Medical Record Dashboard - Bala Dina
     Switch Out From Pat Frame
+    
 
     
 
